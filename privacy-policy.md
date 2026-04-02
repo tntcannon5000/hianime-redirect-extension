@@ -23,3 +23,5 @@ The extension uses Chrome's declarative request redirect rules to redirect suppo
 For questions or support, please open an issue in this repository:
 
 `https://github.com/tntcannon5000/hianime-redirect-extension/issues`
+
+For private matters or direct concerns, please open an issue requesting private contact and I will respond within 12 hours.
