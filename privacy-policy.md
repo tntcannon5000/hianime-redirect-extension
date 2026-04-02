@@ -20,4 +20,6 @@ The extension uses Chrome's declarative request redirect rules to redirect suppo
 
 ## Contact
 
-Contact: `niranjan.kewalramani@outlook.com`
+For questions or support, please open an issue in this repository:
+
+`https://github.com/tntcannon5000/hianime-redirect-extension/issues`
